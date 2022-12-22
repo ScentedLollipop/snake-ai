@@ -6,6 +6,7 @@ created with pytorch
 set up venv
 as of 2022, pytorch does not support python 3.11 so download 3.10 to venv
 install pytorch, pygame, numpy
+
 run agent.py and wait like 10 mins
 
 # the files
