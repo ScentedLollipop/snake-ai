@@ -1,13 +1,17 @@
 # snake-ai
 Deep Q Learning model for reinforcement learning of a snake game
-created with pytorch
+created with tensorflow
 
 # how to use
 set up venv
-as of 2022, pytorch does not support python 3.11 so download 3.10 to venv
-install pytorch, pygame, numpy
+as of 2022, tensorflow only supprts python 3.7 - 3.10.
 
-run agent.py and wait like 10 mins
+this uses python 3.9
+
+
+install tensorflow, pygame, numpy
+
+run agent.py and wait like 10 mins for a decent model
 
 # the files
 
